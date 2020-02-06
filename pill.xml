@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8">
+<restaurant>
+    <menu type="children">
+        <firstplate> 
+            <firstdish>Meat</firstdish>
+            <seconddish>Pasta</seconddish>
+            <thirddish>Burger</thirddish>
+            <fourthdish>Pizza</fourthdish>
+            <fifthdish>Salad</fifthdish>
+        </firstplate>
+
+        <secondplate>
+            <firstdish> Fries </firstdish>
+            <seconddish> Rice </seconddish>
+            <thirddish> Beans </thirddish>
+            <fourthdish> Guacamole </fourthdish>
+            <fifthdish> Noodles </fifthdish>
+        </secondplate>
+
+        <dessert>
+            <firstdish> Gelato </firstdish>
+            <seconddish> Yogurt </seconddish>
+            <thirddish> Chocolate </thirddish>
+            <fourthdish> Banana </fourthdish>
+            <fifthdish> Raspberries </fifthdish>
+        </dessert>
+    </menu>
+
+    <menu type="adults">
+        <firstplate> 
+            <firstdish> Fish </firstdish>
+            <seconddish> Gourmet Bourger </seconddish>
+            <thirddish> Vegetarian Pizza </thirddish>
+            <fourthdish> Mushroom Pizza </fourthdish>
+            <fifthdish> Salad </fifthdish>
+        </firstplate>
+
+        <secondplate>
+            <firstdish> French Fries </firstdish>
+            <seconddish> Rice and Beans </seconddish>
+            <thirddish> Pork and Beans</thirddish>
+            <fourthdish> Nachos and Guacamole </fourthdish>
+            <fifthdish> Sichuan Pork </fifthdish>
+        </secondplate>
+
+        <dessert>
+            <firstdish> Creppe </firstdish>
+            <seconddish> Chocolate Brownie </seconddish>
+            <thirddish> Ice Cream </thirddish>
+            <fourthdish> Banana Ice Cream </fourthdish>
+            <fifthdish> Yogurt with Blueberries </fifthdish>
+    </menu>
+</restaurant>
+
